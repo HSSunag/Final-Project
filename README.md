@@ -1,4 +1,4 @@
-<img src="https://previews.123rf.com/images/indiannaken/indiannaken1505/indiannaken150500012/40649563-areca-nut-palm.jpg" align="right" />
+<img src="download (3).jpg" align="right" />
 # Areacanut Classification using Convolutional Neural Networks
 
 Areca nut is the crop grown mainly in South Asia and East Africa. In India, it is grown in coastal regions of Karnataka and Kerala. The word Areca is derived from the Kannada word Adike. For one kilogram of Areca, the market value is around rupees 300 as of 2020. The invaders to India took the crop from India to Europe in 1600s. India is the leader in production of Areca, with almost half of the world‘s total production comes from India. It is also produced in countries like Bangladesh, Myanmar and Taiwan.
