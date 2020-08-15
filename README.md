@@ -1,4 +1,96 @@
-# Final-Project
+# Areacanut Classification using Convolutional Neural Networks
+
+Areca nut is the crop grown mainly in South Asia and East Africa. In India, it is grown in coastal regions of Karnataka and Kerala. The word Areca is derived from the Kannada word Adike. For one kilogram of Areca, the market value is around rupees 300 as of 2020. The invaders to India took the crop from India to Europe in 1600s. India is the leader in production of Areca, with almost half of the world‘s total production comes from India. It is also produced in countries like Bangladesh, Myanmar and Taiwan.   
+It is an annual crop. Areca nut gives huge profit to the farmers. Areca nut is the seed of a fruit. It is not a nut as the name indicates. Traditionally, they are chewed along with the betel leaves. They are used in medicines. But these also have adverse effect on human health. In 2003, a group sponsored by World Health Organization found that chewing Areca nuts can cause cancer. It is financially accessible in dried, relieved, and new structures. At the point when the husk of the new natural product is green, the nut inside is sufficiently delicate to be cut with an ordinary blade. In the ready organic product, the husk gets yellow or orange, and as it dries, the natural product inside solidifies to a wood-like consistency. At that stage, the areca nut must be cut utilizing an uncommon scissors-like shaper. 
+
+## Getting Started
+
+Clone all the code to local system. Have python installed in the system.
+
+### Prerequisites and Installing
+
+1. Install NODE JS.
+2. Install React JS.
+3. Create a Node project.
+4. Create a React project.
+5. Install node modules specified in code of NodeJS 
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+
 ## To build the model we need to create the architecture using Sequential() .
 from keras.models import Sequential
 from keras.layers import Dense, Flatten, Conv2D, MaxPooling2D
